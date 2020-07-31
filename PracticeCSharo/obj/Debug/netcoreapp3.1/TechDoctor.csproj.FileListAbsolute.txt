@@ -1,0 +1,11 @@
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor.deps.json
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor.runtimeconfig.json
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor.runtimeconfig.dev.json
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor.dll
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/bin/Debug/netcoreapp3.1/TechDoctor.pdb
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/obj/Debug/netcoreapp3.1/TechDoctor.csprojAssemblyReference.cache
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/obj/Debug/netcoreapp3.1/TechDoctor.AssemblyInfoInputs.cache
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/obj/Debug/netcoreapp3.1/TechDoctor.AssemblyInfo.cs
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/obj/Debug/netcoreapp3.1/TechDoctor.dll
+/Users/aali/Downloads/Learnings/C#/ProgrammingParadigms/TechDoctor/TechDoctor/obj/Debug/netcoreapp3.1/TechDoctor.pdb
